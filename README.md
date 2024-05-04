@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <h1>Oi, seja bem vindo ao meu repositório 🎉</h1>
 
-🧑 Meu nome é Lucas, tenho 26 anos, començo na área de desenvolvedor backend 
+🧑 Meu nome é Lucas, tenho 26 anos, estou começando na área de desenvolvedor backend 
 
 <!--
 **Twistywasabi/Twistywasabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
