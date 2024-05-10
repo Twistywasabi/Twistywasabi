@@ -1,6 +1,15 @@
 <h1> 👨‍💻 Lucas Hideaki Tsuzuku</h1>
 
-Novato começando a seguir os passos de uma carreira de backend. Formei em microeletrônica na FATEC, mas a parte da Tecnologia da Informação é a que mais me cativou e encantou com suas ferramentas e soluções. Atualmente estou fazendo cursos na DIO e Hashtag treinamentos para aprimorar meu conhecimento em Java Script e Cybersegurança, mergulhando cada vez mais nesse vasto universo em constante expansão dos desenvolvedores.
+Seja bem vindo! Agradeço pela sua presença no meu perfil e paciência para ler a minha carreira :)
+
+Em 2016, me matriculei em Microeletrônica pelo interesse na parte de processos e fabricação de placas, circuitos integrados e componentes eletrônicos. Durante esse período, tive a grande sorte de conseguir estágio na FATEC-SP em manutenção técnica, na parte básica de informática, redes e computadores. Foi nesse momento que começou minha admiração na parte de TI.
+
+Após a faculdade, investi mais nessa área com cursos livres online, como administrador de redes e Linux na Alura, além de trabalhar como auxiliar administrativo na Fundação Vanzolini, seguido de quase 3 anos como técnico de informática na H2 Informática, onde pude consolidar parte teórica e prática e aprimorar as habilidade de comunicação, análise e resolução de problemas. Enquanto isso, explorei o mundo do desenvolvimento de software e ver como a internet funciona, especialmente na parte de segurança da informação, o que despertou minha paixão pela programação.
+
+Atualmente estou fazendo curso de JavaScript para migrar na carreira de Desenvolvedor Backend, conhecendo ferramentas como Node.JS, Módulos ES6, Github, APIs, JSON, entre outros. Escolhi essa linguagem pois vi nela uma forma de explorar tanto o frontend, quanto o backend; e a facilidade que tive com ela durante uma live que assisti em 2023. Além disso, estou fazendo na udemy um curso de Administração de Servidores usando máquinas virtuais, Debian e Rocky Linux (no lugar do CentOS) para manter e aprimorar o conhecimento de infraestrutura de rede.
+
+
+Muito obrigado por ter lido até aqui, tenha uma boa semana :D
 
 ## 📩 Entre em contato comigo :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hideaki-tsuzuku-m1cr0/)
