@@ -1,6 +1,4 @@
-<h1>Oi, seja bem vindo ao meu repositório 🎉</h1>
-
- Lucas Hideaki Tsuzuku
+<h1>Lucas Hideaki Tsuzuku 👨‍💻</h1>
 
 Novato começando a seguir os passos de uma carreira de backend. Formei em microeletrônica na FATEC, mas a parte da Tecnologia da Informação é a que mais me cativou e encantou com suas ferramentas e soluções. Atualmente estou fazendo cursos na DIO e Hashtag treinamentos para aprimorar meu conhecimento em Java Script e Cybersegurança, mergulhando cada vez mais nesse vasto universo em constante expansão dos desenvolvedores.
 
