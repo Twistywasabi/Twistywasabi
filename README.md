@@ -2,12 +2,11 @@
 
 Seja bem vindo! Agradeço pela sua presença no meu perfil e paciência para ler a minha carreira :)
 
-Em 2016, me matriculei em Microeletrônica pelo interesse na parte de processos e fabricação de placas, circuitos integrados e componentes eletrônicos. Durante esse período, tive a grande sorte de conseguir estágio na FATEC-SP em manutenção técnica, na parte básica de informática, redes e computadores. Foi nesse momento que começou minha admiração na parte de TI.
+Em 2016, me matriculei em Microeletrônica pelo interesse na parte de processos e fabricação de placas, circuitos integrados e componentes eletrônicos. Durante esse período, fiz estágio na FATEC-SP em manutenção técnica, na parte básica de informática, redes e computadores. Foi nesse momento que começou minha admiração na parte de TI.
 
 Após a faculdade, investi mais nessa área com cursos livres online, como administrador de redes e Linux na Alura, além de trabalhar como auxiliar administrativo na Fundação Vanzolini, seguido de quase 3 anos como técnico de informática na H2 Informática, onde pude consolidar parte teórica e prática e aprimorar as habilidade de comunicação, análise e resolução de problemas. Enquanto isso, explorei o mundo do desenvolvimento de software e ver como a internet funciona, especialmente na parte de segurança da informação, o que despertou minha paixão pela programação.
 
-Atualmente estou fazendo curso de JavaScript para migrar na carreira de Desenvolvedor Backend, conhecendo ferramentas como Node.JS, Módulos ES6, Github, APIs, JSON, entre outros. Escolhi essa linguagem pois vi nela uma forma de explorar tanto o frontend, quanto o backend; e a facilidade que tive com ela durante uma live que assisti em 2023. Além disso, estou fazendo na udemy um curso de Administração de Servidores usando máquinas virtuais, Debian e Rocky Linux (no lugar do CentOS) para manter e aprimorar o conhecimento de infraestrutura de rede.
-
+Com isso, o meu objetivo é encontrar uma empresa que permita o meu aprimoramento na área de backend, não só fazer manutenção na aplicação existente, mas também propor novos recursos ou tecnologias para otimizá-la e incrementá-la. Para atender a essas expectativas, concluí um curso de JavaScript para ter o conhecimento das aplicações web como um todo, tendo mais afinidades com ferramentas como Node.JS, Módulos ES6, Github, APIs, JSON, PostgreSQL, entre outros. Além disso, estou fazendo na udemy um curso de Administração de Servidores usando máquinas virtuais, Debian e Rocky Linux (no lugar do CentOS) para manter e aprimorar o conhecimento de infraestrutura de rede. Também tenho disponibilidade para viagens e mudanças.
 
 Muito obrigado por ter lido até aqui, tenha uma boa semana :D
 
