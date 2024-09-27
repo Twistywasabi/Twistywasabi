@@ -4,6 +4,8 @@ Welcome ! Feel free to explore some of my projects :)
 
 Honestly, I just started to dive in into the programming world, so there are some few basics projects, like calculator, investment dashboards, stopwatchs, and so on (they are in portuguese, I'll fix it later ^_^ ).
 
+At the moment, I'm studying JAVA ☕ and it's popular frameworks, like Spring, Maven, Mockito, JUnit, and so on...
+
 Born in Japan, living in Brazil and a whole to explore ! Let's exchange experiences !
 
 ## 📩 Contact me
