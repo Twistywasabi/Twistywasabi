@@ -1,6 +1,10 @@
 <h1> 👨‍💻 Lucas Hideaki Tsuzuku</h1>
 
-Welcome ! Feel free to explore some of my projcts :)
+Welcome ! Feel free to explore some of my projects :)
+
+Honestly, I just started to dive in into the programming world, so there are some few basics projects, like calculator, investment dashboards, stopwatchs, and so on (they are in portuguese, I'll fix it later ^_^ ).
+
+Born in Japan, living in Brazil and a whole to explore ! Let's exchange experiences !
 
 ## 📩 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hideaki-tsuzuku-m1cr0/)
@@ -24,7 +28,7 @@ Welcome ! Feel free to explore some of my projcts :)
 
 | Cargo | Empresa | Tempo de contribuição |Tarefas|
 |-------|---------|-----------------------|-------|
-Técnico de informática | H2 informática|2 Anos e 10 meses | Suporte técnico remoto ou presencial |
+IT Technician | H2 informática|2 years and 10 months | Remote or in-person technical support |
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Twistywasabi&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
