@@ -38,6 +38,7 @@ IT Technician | H2 informática|2 years and 10 months | Remote or in-person tech
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Twistywasabi&repo=Decodificador_texto_alura_ONE&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Twistywasabi/Decodificador_texto_alura_ONE)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Twistywasabi&repo=projetoCalculadoraInvestimentos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Twistywasabi/projetoCalculadoraInvestimentos)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Twistywasabi&repo=Santander_API_&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Twistywasabi/santander-dev-week-2024)
 
 
 ## 🔍 References
