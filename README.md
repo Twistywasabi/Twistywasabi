@@ -14,6 +14,7 @@ Born in Japan, living in Brazil and a whole to explore ! Let's exchange experien
 
 ## 🤹‍♀️ Skills
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +29,7 @@ Born in Japan, living in Brazil and a whole to explore ! Let's exchange experien
 
 ## 💼 Work experience
 
-| Cargo | Empresa | Tempo de contribuição |Tarefas|
+| Job | Company | Contribution Period |Tasks|
 |-------|---------|-----------------------|-------|
 IT Technician | H2 informática|2 years and 10 months | Remote or in-person technical support |
 
