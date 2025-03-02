@@ -33,7 +33,7 @@ Born in Japan, living in Brazil and a whole to explore ! Let's exchange experien
 |-------|---------|-----------------------|-------|
 IT Technician | H2 informática|2 years and 10 months | Remote or in-person technical support |
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Twistywasabi&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Twistywasabi&bg_color=023047&border_color=FB8500&show_icons=true&icon_color=219EBC&title_color=FFB703&text_color=FFF)
 
 ## 📤 Projects
 
